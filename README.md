@@ -28,3 +28,7 @@ Step4:-  Complete the code in views and controller file for the logics
 Step5:- Test application on local 
 php artisan serve ->  http://127.0.0.1:8000/
 
+
+
+Note: PLease get the code from master branch rather than main branch .Its empty branch
+
